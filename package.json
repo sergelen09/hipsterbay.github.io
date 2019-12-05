@@ -57,6 +57,9 @@
     "twilio": "^1.7.0",
     "underscore-contrib": "^0.3.0"
   },
+  "engines": {
+    "node": "12.13.0"
+  },
   "devDependencies": {
     "blanket": "^1.1.6",
     "chai": "^1.9.1",
